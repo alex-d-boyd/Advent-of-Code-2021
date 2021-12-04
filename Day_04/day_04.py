@@ -2,7 +2,7 @@
 
 # Advent of Code
 # https://adventofcode.com/2021
-# Day 
+# Day 4: Giant Squid 
 
 import argparse
 import pprint

@@ -54,7 +54,7 @@ class Position:
                     raise ValueError(f'cannot process command "{line}"')
 
 def parse_args():
-    parser = argparse.ArgumentParser(description='AoC 2021 Day 01')
+    parser = argparse.ArgumentParser(description='AoC 2021 Day 02')
     parser.add_argument('-t', '--test', help='use test data', action='store_true')
     args = parser.parse_args()
     return args
