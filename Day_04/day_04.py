@@ -2,10 +2,9 @@
 
 # Advent of Code
 # https://adventofcode.com/2021
-# Day 4: Giant Squid 
+# Day 4: Giant Squid
 
 import argparse
-import pprint
 
 from pathlib import Path
 
@@ -90,3 +89,4 @@ if __name__ == '__main__':
             
     print(f'Part 1: Winning board score = {top_board_score}')
     print(f'Part 2: Losing board score = {last_board_score}')
+
